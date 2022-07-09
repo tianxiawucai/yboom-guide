@@ -10,8 +10,10 @@
 
 - [产品上传失败>](/amazon/upload-errors)
 
-- [追踪率>]()
+- [追踪率>](/order/orderlist?id=如何保证追踪率)
 
-- 迟发率>
+- [迟发率>](/amazon/shop?id=自动预发)
 
-- 运费估算>
+- [运费估算>](/warehouse/shipFee)
+
+

@@ -4,6 +4,7 @@
  * [转运中心](warehouse/warehouse.md)
  * [仓储管理](warehouse/warehouseStore.md)
  * [物流授权](warehouse/logisticsAuth.md)
+ * [运费预估](warehouse/shipFee.md)
  
 
 
