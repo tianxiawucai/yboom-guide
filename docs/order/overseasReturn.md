@@ -6,7 +6,7 @@
 
 **退货流程：**
 
-软件充值*(前往 [软件费用-充值](/finance/platform) 章节)* -> 对订单发起退货*(选择海外仓和货件大小)* ->海外仓签收(上传照片和描述)。
+软件充值*(前往 [软件费用-充值](/finance/account-record?id=充值) 章节)* -> 对订单发起退货*(选择海外仓和货件大小)* ->海外仓签收(上传照片和描述)。
 
 ![截图](https://oss.yboom.cn/resource/guide-doc/50ba44668b8b76cc4bcd8fe1d5345ec6.png)
 
