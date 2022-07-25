@@ -34,6 +34,7 @@
 ![再次授权.png](https://oss.yboom.cn/resource/guide-doc/%E5%86%8D%E6%AC%A1%E6%8E%88%E6%9D%83.png)
 ![再次授权.png](https://oss.yboom.cn/resource/guide-doc/%E5%86%8D%E6%AC%A1%E6%8E%88%E6%9D%832.png)
 ![再次授权.png](https://oss.yboom.cn/resource/guide-doc/%E5%86%8D%E6%AC%A1%E6%8E%88%E6%9D%833.png)
+需要说明，同一个区域同一个账号，只需要续期一个基础站国家即可。
 
 ### 批量绑定店铺
 
